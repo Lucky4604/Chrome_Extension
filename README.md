@@ -39,23 +39,5 @@ $ npm run build
 - Click on the **Smart Browser Assistant** icon in your Chrome toolbar.
 - Manage ads, track productivity, take notes, and restore sessions effortlessly!
 
-## 🤝 Contributing
 
-```sh
-# Fork the repository
-$ git clone <your-fork-url>
-$ cd smart-browser-assistant
-$ git checkout -b feature-branch
-
-# Make changes and push
-$ git add .
-$ git commit -m "Your amazing feature"
-$ git push origin feature-branch
-```
-
-## 📝 License
-
-```sh
-MIT License - Use it, modify it, and contribute back! 🚀
-```
 
